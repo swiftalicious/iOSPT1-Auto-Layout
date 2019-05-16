@@ -54,14 +54,30 @@
 		966F90AC228CF61E008D2766 /* LogInScreen1 */ = {
 			isa = PBXGroup;
 			children = (
-				966F90AD228CF61E008D2766 /* AppDelegate.swift */,
+				966F90BF228CF630008D2766 /* New Group */,
 				966F90AF228CF61E008D2766 /* ViewController.swift */,
-				966F90B1228CF61E008D2766 /* Main.storyboard */,
-				966F90B4228CF620008D2766 /* Assets.xcassets */,
-				966F90B6228CF620008D2766 /* LaunchScreen.storyboard */,
-				966F90B9228CF620008D2766 /* Info.plist */,
+				966F90C0228CF650008D2766 /* Storyboards */,
 			);
 			path = LogInScreen1;
+			sourceTree = "<group>";
+		};
+		966F90BF228CF630008D2766 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				966F90AD228CF61E008D2766 /* AppDelegate.swift */,
+				966F90B4228CF620008D2766 /* Assets.xcassets */,
+				966F90B9228CF620008D2766 /* Info.plist */,
+			);
+			name = "New Group";
+			sourceTree = "<group>";
+		};
+		966F90C0228CF650008D2766 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				966F90B1228CF61E008D2766 /* Main.storyboard */,
+				966F90B6228CF620008D2766 /* LaunchScreen.storyboard */,
+			);
+			name = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
